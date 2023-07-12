@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String path="C:\\elnur\\brfile";
+        String path="C:\\exam\\examfile";
         while (true) {
             Scanner sc = new Scanner(System.in);
 
